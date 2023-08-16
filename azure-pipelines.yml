@@ -1,4 +1,4 @@
-pool: TestAgent
+pool: Azure Pielines
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
