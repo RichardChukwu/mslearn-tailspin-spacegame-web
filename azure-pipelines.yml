@@ -1,4 +1,4 @@
-pool: Azure Pielines
+pool: Azure Pipelines
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
